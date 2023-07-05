@@ -116,6 +116,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFBOXHHU
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for try 2\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
