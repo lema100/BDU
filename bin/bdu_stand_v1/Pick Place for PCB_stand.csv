@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations
+D:\person_rep\BDU\sch_pcb_stand\Project Outputs for stand\Pick Place for PCB_stand.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       04.09.23
+Time:       13:52
+Revision:   fb76f14df3a2203374f4b4b981e081d57f486002
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R4","R-0904N-B1K","TopLayer","R-0904N-B1K","23.7500","71.2500","0",""
+"R5","R-0904N-B1K","TopLayer","R-0904N-B1K","63.7500","71.0000","0",""
+"XP3","ZL211-10KG","TopLayer","Pins_1x10","56.3020","5.0000","0",""
+"XP2","ZL211-02KG","TopLayer","Pins_1x2","22.5200","5.0000","0",""
+"XP1","WF-05R","TopLayer","WF-05","95.0000","15.0400","90",""
+"VD4","S1M","TopLayer","DO-214AC_SMA","91.5000","28.7100","90",""
+"VD3","S1M","TopLayer","DO-214AC_SMA","97.5000","28.7100","90",""
+"VD2","S1M","TopLayer","DO-214AC_SMA","19.7900","97.5000","180",""
+"VD1","S1M","TopLayer","DO-214AC_SMA","59.7900","97.5000","180",""
+"SB8","PB22E08 C фиксации","TopLayer","PB22E08","84.2500","88.7500","270",""
+"SB7","PB22E08 Без фиксации","TopLayer","PB22E08","34.2500","88.7500","270",""
+"SB6","PB22E08 Без фиксации","TopLayer","PB22E08","24.2500","88.7500","270",""
+"SB5","PB22E08 C фиксации","TopLayer","PB22E08","44.2500","88.7500","270",""
+"SB4","PB22E08 Без фиксации","TopLayer","PB22E08","64.2500","88.7500","270",""
+"SB3","PB22E08 Без фиксации","TopLayer","PB22E08","54.2500","88.7500","270",""
+"SB2","PB22E08 Без фиксации","TopLayer","PB22E08","74.2500","88.7500","270",""
+"SB1","PB22E08 Без фиксации","TopLayer","PB22E08","14.2500","88.7500","270",""
+"R6","10k","TopLayer","Resistor_2512","91.5000","41.8250","90",""
+"R3","10k","TopLayer","Resistor_2512","97.5000","41.8250","90",""
+"R2","47R","TopLayer","Resistor_2512","15.0000","70.9250","270",""
+"R1","47R","TopLayer","Resistor_2512","54.5000","70.6750","270",""
+"HL4","1206 GREEN","TopLayer","LED_0805","93.5160","51.2500","0",""
+"HL3","1206 RED","TopLayer","LED_0805","93.5160","56.2500","0",""
+"HL2","1206 GREEN","TopLayer","LED_0805","93.5160","61.2500","0",""
+"HL1","1206 RED","TopLayer","LED_0805","93.5160","66.2500","0",""
